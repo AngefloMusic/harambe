@@ -1,6 +1,6 @@
 # harambe
 
-Harambe is a simple Node.js module that allows you to insert a random Star Wars quote into your site, or view one through the command line.
+Harambe is a simple Node.js module that allows you to insert a Harambe into your site, or view one through the command line.
 
 ## Usage
 

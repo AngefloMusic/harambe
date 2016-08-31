@@ -1,31 +1,31 @@
 {
-  "name": "starwars",
+  "name": "harambe",
   "version": "1.0.0",
-  "description": "A simple Node.js module that allows you to insert a random Star Wars quote into your site, or view one through the command line.",
-  "homepage": "https://github.com/dcgauld/starwars",
+  "description": "A simple Node.js module that injects Harambe reminders into your application, or view them through the command line.",
+  "homepage": "https://github.com/AngefloMusic/harambe",
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dcgauld/starwars.git"
+    "url": "git://github.com/AngefloMusic/harambe.git"
   },
   "bin": {
-    "starwars": "./lib/cli.js"
+    "harambe": "./lib/cli.js"
   },
   "keywords": [
-    "star",
-    "wars",
-    "starwars"
+    "harambe",
+    "dofh",
+    "#dofh"
   ],
   "author": {
-    "name": "David Gauld",
-    "email": "dcgauld@gmail.com",
-    "web": "http://dcgauld.com"
+    "name": "Angelo Girardi",
+    "email": "girardi.ang@gmail.com",
+    "web": "http://github.com/"
   },
   "licenses": {
     "type": "MIT",
-    "url": "https://raw.github.com/dcgauld/starwars/master/LICENSE"
+    "url": "https://raw.github.com/AngefloMusic/harambe/master/LICENSE"
   },
   "bugs": {
-    "url": "https://github.com/dcgauld/starwars/issues"
+    "url": "https://github.com/AngefloMusic/harambe/issues"
   }
 }
